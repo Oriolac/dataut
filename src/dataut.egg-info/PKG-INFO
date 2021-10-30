@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: dataut
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/oriolac/dataut
+Author: Oriol Alàs Cercós
+Author-email: oriolalascercos@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 1 - Planning
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Framework :: Matplotlib
+Classifier: Natural Language :: English
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Dataut
+
